@@ -1,0 +1,114 @@
+﻿ <Page
+    Loading="Page_Loading"
+    x:Class="client.Setting"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:client"
+    xmlns:service ="using:client.ServiceReference4"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock Text="הגדרות" Foreground="#FF924E95" FontSize="35" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="25" ></TextBlock>
+
+        <StackPanel VerticalAlignment="Bottom" Grid.ColumnSpan="2"   >
+            <Image Source="/Assets/balls-2.png" Width="150" Height="150" />
+
+
+        </StackPanel>
+        <Image Source="/Assets/logo_mobile.png" Width="200" Height="200" Margin="30" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Column="1">
+            <Button   Background="#FF924E95" BorderBrush="#FFE0D5D5"  VerticalAlignment="Top" FontSize="30" Width="50" Click="HomeBack"  >
+                <Button.Content >
+                    <SymbolIcon Symbol="Home" Foreground="#FFB9E4F5">
+
+                    </SymbolIcon>
+                </Button.Content>
+            </Button>
+            <Button   Background="#FF924E95" BorderBrush="#FFE0D5D5"  VerticalAlignment="Top" FontSize="30" Width="50" Click="back"  >
+                <Button.Content >
+                    <SymbolIcon Symbol="Forward" Foreground="#FFB9E4F5">
+
+                    </SymbolIcon>
+                </Button.Content>
+            </Button>
+        </StackPanel>
+       
+                <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center"  Margin="100">
+                  <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="ערים"  Width="200"     Height="70" FontSize="25"  Margin="25" Click="SetCities"></Button>
+                  <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="סוגי ייעוץ"  Width="200"     Height="70" FontSize="25"  Margin="25"  Click="SetAdvices"></Button>
+                  <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="סוגי סדנאות"  Width="200"    Height="70" FontSize="25"  Margin="25" Click="SetCourses" ></Button>
+        </StackPanel>
+          
+            <StackPanel Name="stackCity" Tag="city" Visibility="Collapsed"  VerticalAlignment="Center" HorizontalAlignment="Center" FlowDirection="RightToLeft" Orientation="Vertical">
+            <TextBlock Text="ערים" Foreground="#FF924E95" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="25"></TextBlock>
+
+            <ListView x:Name="cityCombo" MaxWidth="300" Width="auto" Background="White" Opacity="0.5" MaxHeight="400">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="service:Cities">
+                        <TextBlock Text="{Binding nameCity}"></TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+           
+                <TextBox x:Name="txt1" Width="220" MaxHeight="100" Margin="50,50,50,0" PlaceholderText=" " Height="auto"></TextBox>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Tag="{Binding }">
+                <Button  Content="עריכה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="לעדכון עיר"></Button>
+                <Button  Content="הוספה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="להוספת עיר"></Button>
+                <Button  Content="מחיקה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="למחיקת סדנה"></Button>
+
+            </StackPanel>
+          
+        </StackPanel>
+
+        <StackPanel Name="stackAdvice" Tag="advice" Visibility="Collapsed"  VerticalAlignment="Center" HorizontalAlignment="Center" FlowDirection="RightToLeft" Orientation="Vertical">
+            <TextBlock Text="סוגי יעוצים" Foreground="#FF924E95" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="25"></TextBlock>
+            <ListView x:Name="adviceCombo" MaxWidth="300" Width="auto" Background="White" Opacity="0.5" >
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="service:TypeAdvice">
+                        <TextBlock Text="{Binding nameTypeAdvice}"></TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+          
+                <TextBox x:Name="txt2" Width="220" MaxHeight="100"  Margin="50,50,50,0"  PlaceholderText=" " Height="auto"></TextBox>
+              <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Tag="{Binding}">
+                    <Button  Content="עריכה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="לעדכון ייעוץ"></Button>
+                    <Button  Content="הוספה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="להוספת ייעוץ"></Button>
+                <Button  Content="מחיקה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="למחיקת סדנה"></Button>
+
+            </StackPanel>
+     </StackPanel>
+        <StackPanel Name="stackCourses" Tag="course" Visibility="Collapsed"  VerticalAlignment="Center" HorizontalAlignment="Center" FlowDirection="RightToLeft" Orientation="Vertical">
+            <TextBlock Text="סוגי סדנאות" Foreground="#FF924E95" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="25"></TextBlock>
+
+            <ListView x:Name="coursesCombo" MaxWidth="300" Width="auto" Background="White" Opacity="0.5">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="service:TypeCourse">
+                        <TextBlock Text="{Binding nameTypeCourse}"></TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+    
+                <TextBox x:Name="txt" Width="220" MaxHeight="100" Margin="50,50,50,0" PlaceholderText=" " Height="auto"></TextBox>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Tag="{Binding}">
+                    <Button  Content="עריכה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="לעדכון סדנה"></Button>
+                    <Button  Content="הוספה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="להוספת סדנה"></Button>
+                   <Button  Content="מחיקה" HorizontalAlignment="Right" Width="100" Margin="20"  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Click="Delete1" ToolTipService.ToolTip="למחיקת סדנה"></Button>
+
+            </StackPanel>
+               
+    
+        </StackPanel>
+
+
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/background1.jpg"/>
+        </Grid.Background>
+
+
+    </Grid>
+
+</Page>

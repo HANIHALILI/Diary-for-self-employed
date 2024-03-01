@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServer/Service1/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServer/Service1/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServer/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Model" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_AddCustomers_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCustomers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCustomers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddSceduel_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddSceduel" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddSceduel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddSceduelResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddPersonalMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddPersonalMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddPersonalMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddPersonalMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCity_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddPersonToCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddPersonToCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddPersonToCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddPersonToCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCourseMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCourseMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCourseMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCourseMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddTypeCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddTypeCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddTypeCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddTypeCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddTypeAdvice_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddTypeAdvice" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddTypeAdvice_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddTypeAdviceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCustomers_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCustomers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCustomers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateSceduel_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateSceduel" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateSceduel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateSceduelResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdatePersonalMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePersonalMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdatePersonalMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePersonalMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCities_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCities" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCities_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCitiesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCourseMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCourseMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateCourseMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCourseMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateRegistrationToCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateRegistrationToCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateRegistrationToCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateRegistrationToCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateTypeCurse_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTypeCurse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateTypeCurse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTypeCurseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateTypeAdvice_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTypeAdvice" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateTypeAdvice_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTypeAdviceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCustomers_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCustomers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCustomers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteSceduel_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteSceduel" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteSceduel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteSceduelResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeletePersonalMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePersonalMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeletePersonalMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePersonalMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCity_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteRegistrationToCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteRegistrationToCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteRegistrationToCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteRegistrationToCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteTypeCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteTypeCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteTypeCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteTypeCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteTypeAdvice_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteTypeAdvice" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteTypeAdvice_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteTypeAdviceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCourseMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCourseMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteCourseMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteCourseMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCustomers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCustomers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCustomers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCourseMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCourseMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCourseMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCourseMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToSceduel_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToSceduel" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToSceduel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToSceduelResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToPersonalMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToPersonalMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToPersonalMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToPersonalMeetingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCity_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToTypeCourse_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToTypeCourse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToTypeCourse_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToTypeCourseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToTypeAdvice_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToTypeAdvice" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToTypeAdvice_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToTypeAdviceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetPersonalMeetingList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPersonalMeetingList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetPersonalMeetingList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPersonalMeetingListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetSceduelList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSceduelList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetSceduelList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSceduelListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCourseList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCourseList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCourseList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCourseListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCustomersList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCustomersList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCustomersList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCustomersListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCitiesList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCitiesList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCitiesList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCitiesListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetRegistrationToCourseList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistrationToCourseList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetRegistrationToCourseList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistrationToCourseListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCourseMeetingList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCourseMeetingList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCourseMeetingList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCourseMeetingListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetTypeAdviceList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTypeAdviceList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetTypeAdviceList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTypeAdviceListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetTypeCourseList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTypeCourseList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetTypeCourseList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTypeCourseListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddLstCourseMeeting_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddLstCourseMeeting" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddLstCourseMeeting_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddLstCourseMeetingResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="AddCustomers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCustomers" message="tns:IService1_AddCustomers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCustomersResponse" message="tns:IService1_AddCustomers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddSceduel">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddSceduel" message="tns:IService1_AddSceduel_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddSceduelResponse" message="tns:IService1_AddSceduel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddPersonalMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddPersonalMeeting" message="tns:IService1_AddPersonalMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddPersonalMeetingResponse" message="tns:IService1_AddPersonalMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCourse" message="tns:IService1_AddCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCourseResponse" message="tns:IService1_AddCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddCity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCity" message="tns:IService1_AddCity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCityResponse" message="tns:IService1_AddCity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddPersonToCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddPersonToCourse" message="tns:IService1_AddPersonToCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddPersonToCourseResponse" message="tns:IService1_AddPersonToCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddCourseMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCourseMeeting" message="tns:IService1_AddCourseMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCourseMeetingResponse" message="tns:IService1_AddCourseMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddTypeCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddTypeCourse" message="tns:IService1_AddTypeCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddTypeCourseResponse" message="tns:IService1_AddTypeCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddTypeAdvice">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddTypeAdvice" message="tns:IService1_AddTypeAdvice_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddTypeAdviceResponse" message="tns:IService1_AddTypeAdvice_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateCustomers" message="tns:IService1_UpdateCustomers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateCustomersResponse" message="tns:IService1_UpdateCustomers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSceduel">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateSceduel" message="tns:IService1_UpdateSceduel_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateSceduelResponse" message="tns:IService1_UpdateSceduel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePersonalMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdatePersonalMeeting" message="tns:IService1_UpdatePersonalMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdatePersonalMeetingResponse" message="tns:IService1_UpdatePersonalMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateCourse" message="tns:IService1_UpdateCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateCourseResponse" message="tns:IService1_UpdateCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCities">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateCities" message="tns:IService1_UpdateCities_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateCitiesResponse" message="tns:IService1_UpdateCities_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCourseMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateCourseMeeting" message="tns:IService1_UpdateCourseMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateCourseMeetingResponse" message="tns:IService1_UpdateCourseMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRegistrationToCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateRegistrationToCourse" message="tns:IService1_UpdateRegistrationToCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateRegistrationToCourseResponse" message="tns:IService1_UpdateRegistrationToCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTypeCurse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateTypeCurse" message="tns:IService1_UpdateTypeCurse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateTypeCurseResponse" message="tns:IService1_UpdateTypeCurse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTypeAdvice">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateTypeAdvice" message="tns:IService1_UpdateTypeAdvice_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateTypeAdviceResponse" message="tns:IService1_UpdateTypeAdvice_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCustomers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteCustomers" message="tns:IService1_DeleteCustomers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteCustomersResponse" message="tns:IService1_DeleteCustomers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteSceduel">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteSceduel" message="tns:IService1_DeleteSceduel_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteSceduelResponse" message="tns:IService1_DeleteSceduel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeletePersonalMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeletePersonalMeeting" message="tns:IService1_DeletePersonalMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeletePersonalMeetingResponse" message="tns:IService1_DeletePersonalMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteCourse" message="tns:IService1_DeleteCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteCourseResponse" message="tns:IService1_DeleteCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteCity" message="tns:IService1_DeleteCity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteCityResponse" message="tns:IService1_DeleteCity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteRegistrationToCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteRegistrationToCourse" message="tns:IService1_DeleteRegistrationToCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteRegistrationToCourseResponse" message="tns:IService1_DeleteRegistrationToCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTypeCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteTypeCourse" message="tns:IService1_DeleteTypeCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteTypeCourseResponse" message="tns:IService1_DeleteTypeCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTypeAdvice">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteTypeAdvice" message="tns:IService1_DeleteTypeAdvice_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteTypeAdviceResponse" message="tns:IService1_DeleteTypeAdvice_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCourseMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteCourseMeeting" message="tns:IService1_DeleteCourseMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteCourseMeetingResponse" message="tns:IService1_DeleteCourseMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCustomers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToCustomers" message="tns:IService1_GetCodeToCustomers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToCustomersResponse" message="tns:IService1_GetCodeToCustomers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCourseMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToCourseMeeting" message="tns:IService1_GetCodeToCourseMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToCourseMeetingResponse" message="tns:IService1_GetCodeToCourseMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToSceduel">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToSceduel" message="tns:IService1_GetCodeToSceduel_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToSceduelResponse" message="tns:IService1_GetCodeToSceduel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToPersonalMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToPersonalMeeting" message="tns:IService1_GetCodeToPersonalMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToPersonalMeetingResponse" message="tns:IService1_GetCodeToPersonalMeeting_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToCourse" message="tns:IService1_GetCodeToCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToCourseResponse" message="tns:IService1_GetCodeToCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToCity" message="tns:IService1_GetCodeToCity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToCityResponse" message="tns:IService1_GetCodeToCity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToTypeCourse">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToTypeCourse" message="tns:IService1_GetCodeToTypeCourse_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToTypeCourseResponse" message="tns:IService1_GetCodeToTypeCourse_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToTypeAdvice">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToTypeAdvice" message="tns:IService1_GetCodeToTypeAdvice_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToTypeAdviceResponse" message="tns:IService1_GetCodeToTypeAdvice_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPersonalMeetingList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetPersonalMeetingList" message="tns:IService1_GetPersonalMeetingList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetPersonalMeetingListResponse" message="tns:IService1_GetPersonalMeetingList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSceduelList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetSceduelList" message="tns:IService1_GetSceduelList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetSceduelListResponse" message="tns:IService1_GetSceduelList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCourseList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCourseList" message="tns:IService1_GetCourseList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCourseListResponse" message="tns:IService1_GetCourseList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCustomersList" message="tns:IService1_GetCustomersList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCustomersListResponse" message="tns:IService1_GetCustomersList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCitiesList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCitiesList" message="tns:IService1_GetCitiesList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCitiesListResponse" message="tns:IService1_GetCitiesList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistrationToCourseList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetRegistrationToCourseList" message="tns:IService1_GetRegistrationToCourseList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetRegistrationToCourseListResponse" message="tns:IService1_GetRegistrationToCourseList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCourseMeetingList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCourseMeetingList" message="tns:IService1_GetCourseMeetingList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCourseMeetingListResponse" message="tns:IService1_GetCourseMeetingList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTypeAdviceList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetTypeAdviceList" message="tns:IService1_GetTypeAdviceList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetTypeAdviceListResponse" message="tns:IService1_GetTypeAdviceList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTypeCourseList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetTypeCourseList" message="tns:IService1_GetTypeCourseList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetTypeCourseListResponse" message="tns:IService1_GetTypeCourseList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddLstCourseMeeting">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddLstCourseMeeting" message="tns:IService1_AddLstCourseMeeting_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddLstCourseMeetingResponse" message="tns:IService1_AddLstCourseMeeting_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddCustomers">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCustomers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddSceduel">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddSceduel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddPersonalMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddPersonalMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddCity">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddPersonToCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddPersonToCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddCourseMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCourseMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddTypeCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddTypeCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddTypeAdvice">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddTypeAdvice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomers">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateCustomers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSceduel">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateSceduel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePersonalMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdatePersonalMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCities">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateCities" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCourseMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateCourseMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRegistrationToCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateRegistrationToCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTypeCurse">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateTypeCurse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTypeAdvice">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateTypeAdvice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCustomers">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteCustomers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteSceduel">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteSceduel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeletePersonalMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeletePersonalMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCity">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteCity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteRegistrationToCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteRegistrationToCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTypeCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteTypeCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTypeAdvice">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteTypeAdvice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteCourseMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteCourseMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCustomers">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToCustomers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCourseMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToCourseMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToSceduel">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToSceduel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToPersonalMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToPersonalMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCity">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToCity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToTypeCourse">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToTypeCourse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToTypeAdvice">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToTypeAdvice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPersonalMeetingList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetPersonalMeetingList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSceduelList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetSceduelList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCourseList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCourseList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomersList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCustomersList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCitiesList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCitiesList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistrationToCourseList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetRegistrationToCourseList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCourseMeetingList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCourseMeetingList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTypeAdviceList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetTypeAdviceList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTypeCourseList">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetTypeCourseList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddLstCourseMeeting">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddLstCourseMeeting" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServer/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

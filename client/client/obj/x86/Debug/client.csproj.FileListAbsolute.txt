@@ -1,0 +1,1448 @@
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\App.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\App.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Course.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\resources.pri
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\tichnut\Desktop\Hani Project\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+D:\Hani Project\client\client\bin\x86\Debug\App.xbf
+D:\Hani Project\client\client\bin\x86\Debug\AddCustomer.xbf
+D:\Hani Project\client\client\bin\x86\Debug\Course.xbf
+D:\Hani Project\client\client\bin\x86\Debug\Customers.xbf
+D:\Hani Project\client\client\bin\x86\Debug\MainPage.xbf
+D:\Hani Project\client\client\bin\x86\Debug\PersonalMeeting.xbf
+D:\Hani Project\client\client\bin\x86\Debug\Registration.xbf
+D:\Hani Project\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+D:\Hani Project\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+D:\Hani Project\client\client\bin\x86\Debug\client.xr.xml
+D:\Hani Project\client\client\bin\x86\Debug\client.exe
+D:\Hani Project\client\client\bin\x86\Debug\client.pdb
+D:\Hani Project\client\client\bin\x86\Debug\resources.pri
+D:\Hani Project\client\client\bin\x86\Debug\AppxManifest.xml
+D:\Hani Project\client\client\bin\x86\Debug\Core\AppxManifest.xml
+D:\Hani Project\client\client\bin\x86\Debug\Core\client.exe
+D:\Hani Project\client\client\bin\x86\Debug\client.build.appxrecipe
+D:\Hani Project\client\client\bin\x86\Debug\System.Runtime.dll
+D:\Hani Project\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Hani Project\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+D:\Hani Project\client\client\obj\x86\Debug\App.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\App.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\AddCustomer.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\Course.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\Course.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\Customers.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\Customers.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\MainPage.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\MainPage.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\Registration.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\Registration.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Hani Project\client\client\obj\x86\Debug\App.xaml
+D:\Hani Project\client\client\obj\x86\Debug\AddCustomer.xaml
+D:\Hani Project\client\client\obj\x86\Debug\Course.xaml
+D:\Hani Project\client\client\obj\x86\Debug\Customers.xaml
+D:\Hani Project\client\client\obj\x86\Debug\MainPage.xaml
+D:\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.xaml
+D:\Hani Project\client\client\obj\x86\Debug\Registration.xaml
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+D:\Hani Project\client\client\obj\x86\Debug\App.xbf
+D:\Hani Project\client\client\obj\x86\Debug\AddCustomer.xbf
+D:\Hani Project\client\client\obj\x86\Debug\Course.xbf
+D:\Hani Project\client\client\obj\x86\Debug\Customers.xbf
+D:\Hani Project\client\client\obj\x86\Debug\MainPage.xbf
+D:\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.xbf
+D:\Hani Project\client\client\obj\x86\Debug\Registration.xbf
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+D:\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+D:\Hani Project\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Hani Project\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+D:\Hani Project\client\client\obj\x86\Debug\client.csproj.CopyComplete
+D:\Hani Project\client\client\obj\x86\Debug\client.exe
+D:\Hani Project\client\client\obj\x86\Debug\client.pdb
+D:\Hani Project\client\client\obj\x86\Debug\ResourceHandlingTask.state
+D:\Hani Project\client\client\obj\x86\Debug\priconfig.xml
+D:\Hani Project\client\client\obj\x86\Debug\priconfig.xml.intermediate
+D:\Hani Project\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Hani Project\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Hani Project\client\client\obj\x86\Debug\filtered.layout.resfiles
+D:\Hani Project\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Hani Project\client\client\obj\x86\Debug\excluded.layout.resfiles
+D:\Hani Project\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Hani Project\client\client\obj\x86\Debug\resources.resfiles
+D:\Hani Project\client\client\obj\x86\Debug\resources.resfiles.intermediate
+D:\Hani Project\client\client\obj\x86\Debug\pri.resfiles
+D:\Hani Project\client\client\obj\x86\Debug\pri.resfiles.intermediate
+D:\Hani Project\client\client\obj\x86\Debug\qualifiers.txt
+D:\Hani Project\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Hani Project\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Hani Project\client\client\obj\x86\Debug\ProjectArchitectures.txt
+D:\Hani Project\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+D:\Hani Project\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\App.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\Course.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\client.exe
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\client.pdb
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\resources.pri
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\App.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\App.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Course.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\App.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Course.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\client.exe
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\client.pdb
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\יאיר\Desktop\HANI\Hani Project\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\tichnut\Desktop\Hani Project\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\App.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Course.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.exe
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.pdb
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\resources.pri
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.exe
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.pdb
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\resources.pri
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\App.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\Course.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\Customers.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\Registration.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\client.xr.xml
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\client.exe
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\client.pdb
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\resources.pri
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\Core\client.exe
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+D:\ח נ י פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\App.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\App.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\client.exe
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\client.pdb
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+D:\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\App.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\App.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Course.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\App.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Course.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\client.exe
+C:\Users\tichnut\Pictures\client\client\obj\x86\Debug\client.pdb
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\App.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\Course.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\client.exe
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\client.pdb
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\resources.pri
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\App.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\App.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\client.exe
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\client.pdb
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\יאיר\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\tichnut\Desktop\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\App.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\App.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\App.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Course.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\client.exe
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\client.pdb
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\App.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Course.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\client.exe
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\client.pdb
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\resources.pri
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.cs
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\CourseMeeting.xaml
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\obj\x86\Debug\CourseMeeting.xbf
+C:\Users\יאיר\Documents\ח נ י פרויקט\client\client\bin\x86\Debug\CourseMeeting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\CourseMeeting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\resources.pri
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\App.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\CourseMeeting.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\App.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Course.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\CourseMeeting.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\CourseMeeting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\tichnut\Desktop\חני שני כב סיון\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\App.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Course.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\CourseMeeting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\client.exe
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\client.pdb
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\resources.pri
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\יאיר\Documents\כג סיון\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\App.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\CourseMeeting.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\App.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Course.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\CourseMeeting.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\App.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Course.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\CourseMeeting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\client.exe
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\client.pdb
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\יאיר\Documents\כג סיון\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\CourseMeeting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\resources.pri
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\App.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\App.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Course.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\App.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Course.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\client.exe
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\client.pdb
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\tichnut\Desktop\חני פרויקט\client\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\App.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Course.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\CourseMeeting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\client.exe
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\client.pdb
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\resources.pri
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\יאיר\Documents\חני פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\App.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\App.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Course.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\App.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Course.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\client.exe
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\client.pdb
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\יאיר\Documents\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\App.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\AddCourse.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Calender.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Course.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\CourseMeeting.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Customers.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Registration.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Setting.xbf
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.xr.xml
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.exe
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.pdb
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\resources.pri
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Core\client.exe
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+D:\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.xaml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.xbf
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.exe
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.pdb
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+D:\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\App.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Course.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\CourseMeeting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.exe
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.pdb
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\resources.pri
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\App.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Course.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\CourseMeeting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.exe
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\client.pdb
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194352980000000.json
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\App.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\AddCourse.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\AddCustomer.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Calender.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Course.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\CourseMeeting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Customers.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\MainPage.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\PersonalMeeting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Registration.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\RegistrationForCourse.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Setting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\client.xr.xml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\client.exe
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\client.pdb
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\resources.pri
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\AppxManifest.xml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Core\client.exe
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\client.build.appxrecipe
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\System.Runtime.dll
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\App.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\App.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCourse.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCourse.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCustomer.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCustomer.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Calender.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Calender.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Course.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Course.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\CourseMeeting.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\CourseMeeting.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Customers.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Customers.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\MainPage.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\PersonalMeeting.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\PersonalMeeting.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Registration.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Registration.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForCourse.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForCourse.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Setting.g.i.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Setting.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\App.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCourse.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCustomer.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Calender.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Course.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\CourseMeeting.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Customers.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\MainPage.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\PersonalMeeting.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Registration.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForCourse.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Setting.xaml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\App.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCourse.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\AddCustomer.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Calender.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Course.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\CourseMeeting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Customers.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\MainPage.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\PersonalMeeting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Registration.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForCourse.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\RegistrationForPersonalMeeting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\Setting.xbf
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\client.csproj.CopyComplete
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\client.exe
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\client.pdb
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\priconfig.xml
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\resources.resfiles
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\pri.resfiles
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\qualifiers.txt
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\Hani\Desktop\פרויקטים\פרויקט ניהול יומן עבודה לעצמאי\client\client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194352980000000.json

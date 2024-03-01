@@ -1,0 +1,295 @@
+﻿<Page
+    Name="courseP"
+    Loading="Page_Loading"
+    x:Class="client.Course"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:client"
+    xmlns:service1 ="using:client.ServiceReference4"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/background1.jpg"/>
+        </Grid.Background>
+        <Image Source="/Assets/logo_mobile.png" Width="200" Height="200" Margin="30" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <StackPanel VerticalAlignment="Bottom" Margin="50" Width="280" HorizontalAlignment="Left">
+            <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="הוספת סדנה"  Width="200"  HorizontalAlignment="Left" Height="50" FontSize="20"  Margin="20" Click="AddCourse" ></Button>
+            <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="רישום לסדנאות"  Width="200"  HorizontalAlignment="Left" Height="50" FontSize="20"  Margin="20" Click="RegistrationForCourse" ></Button>
+
+        </StackPanel>
+       <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+        
+            <Button  Background="#FF924E95" BorderBrush="#FFE0D5D5"  VerticalAlignment="Top" FontSize="30" Width="50" Click="HomeBack">
+            <Button.Content >
+                <SymbolIcon Symbol="Home" Foreground="#FFB9E4F5">
+
+                </SymbolIcon>
+            </Button.Content>
+            </Button>
+            <Button  Background="#FF924E95" BorderBrush="#FFE0D5D5"  VerticalAlignment="Top" FontSize="30" Width="50" Click="back">
+                <Button.Content >
+                    <SymbolIcon Symbol="Forward" Foreground="#FFB9E4F5">
+
+                    </SymbolIcon>
+                </Button.Content>
+            </Button>
+        </StackPanel>
+        <TextBlock Text="סדנאות" Foreground="#FF924E95" FontSize="35" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="25"></TextBlock>
+        <TextBox Name="find" PlaceholderText="חיפוש" Foreground="#FF924E95" FontSize="30" VerticalAlignment="Top" TextChanged="find_TextChanged"  HorizontalAlignment="Center" Width="700" Margin="100"></TextBox>
+
+
+        <ScrollViewer x:Name="scroll" Tag="{Binding}"> 
+
+            <ListView MinWidth="700" Width="auto" Height="auto" MaxHeight="450"  x:Name="lstCourse" VerticalAlignment="Center" Background="#FFDACADF" Opacity="0.8" HorizontalAlignment="Center" Margin="200" FlowDirection="RightToLeft" SelectionChanged="lstCourse_SelectionChanged">
+                    <ListView.ItemTemplate  >
+                        <DataTemplate x:DataType="service1:Course">
+                        
+                                    <StackPanel  Tag="{Binding}"  Orientation="Horizontal" FlowDirection="RightToLeft" >
+                                        <TextBlock x:Name="v" Width="auto" MinWidth="80" TextWrapping = "Wrap" Foreground = "#FF924E95" Text = "{Binding codeTypeCourse.nameTypeCourse}" Margin="15"/>
+
+                                        <TextBlock x:Name="c" Width="auto" MinWidth="80" TextWrapping = "Wrap" Foreground = "#FF924E95" Text = "{Binding status}" Margin="15"/>
+                                        <TextBlock x:Name="f" Width="auto" MinWidth="290" TextWrapping = "Wrap" Foreground = "#FF924E95" Text = "{Binding discribtion}" Margin="15"/>
+                                      <StackPanel Tag="out" Orientation="Horizontal" HorizontalAlignment="Left">
+                                <Button  Tag="{Binding}"  Margin="15"  HorizontalAlignment="Left" Click="OpenHistoryPOP" Background="Transparent" Foreground = "#FF924E95">
+                                         <Button.Content>
+                                          <SymbolIcon Symbol="Bookmarks"></SymbolIcon>
+                                        </Button.Content>
+                                        </Button>
+                                <Button  Tag="{Binding}"  Margin="15"  HorizontalAlignment="Left" Click="OpenUpdatePOP" Background="Transparent" Foreground = "#FF924E95">
+                                            <Button.Content>
+                                                   <SymbolIcon Symbol="Edit"></SymbolIcon>
+                                            </Button.Content>
+                                        </Button>
+                                <Button  Tag="{Binding}"  Margin="15"  HorizontalAlignment="Left" Click="OpenDeletePOP" Background="Transparent" Foreground = "#FF924E95">
+                                            <Button.Content>
+                                                 <SymbolIcon Symbol="Delete"></SymbolIcon>
+                                            </Button.Content>
+                                        </Button>
+                                      
+                            </StackPanel>
+                        </StackPanel>
+                     
+                        </DataTemplate>
+                            
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ScrollViewer>
+
+        <Popup x:Name="deletePop"  VerticalAlignment="top" HorizontalAlignment="Center" Margin="400" >
+
+            <StackPanel BorderThickness="3"  BorderBrush="#FFB9E4F5" VerticalAlignment="Center"  Width="auto" Height="150" HorizontalAlignment="Center"  Background="#FFDFDFE3" >
+                <TextBlock Foreground = "#FF924E95" Text = "?האם למחוק את הסדנה הנבחרת" FontSize="25" Margin="15" Width="auto"></TextBlock>
+                <StackPanel Orientation="Horizontal" Width="auto" VerticalAlignment="Stretch" HorizontalAlignment="Center">
+                    <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="מחק"  Width="auto" MinWidth="80" HorizontalAlignment="Left" Height="35" FontSize="13"  Margin="20" Click="deleteC"></Button>
+                    <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="ביטול"  Width="auto" MinWidth="80"  HorizontalAlignment="Right" Height="35" FontSize="13"  Margin="20"  Click="closeDPop"></Button>
+
+                </StackPanel>
+            </StackPanel>
+        </Popup>
+        <Popup x:Name="detailsPop" VerticalAlignment="top" HorizontalAlignment="Center" Margin="300" >
+
+            <StackPanel   Width="auto" Height="auto"  Orientation="Vertical" FlowDirection="RightToLeft" BorderBrush="#FF924E95" Background="White">
+                    <StackPanel Tag="in" Orientation="Horizontal" Height="auto" Width="auto" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,0,0,50" >
+                  
+                    <Button HorizontalAlignment="Center" Foreground="#FFB9E4F5" Background="#FF924E95"   BorderBrush="#FFE0D5D5"   Width="auto"   Height="auto" FontSize="13"  Margin="5"  Click="closeDetailsPop">
+                            <Button.Content>
+                                <SymbolIcon Symbol="Clear"></SymbolIcon>
+                            </Button.Content>
+                    </Button>
+
+
+                        <TextBlock x:Name="txtTitle"  FlowDirection="RightToLeft" Foreground = "#FF924E95" HorizontalAlignment="Center" Text = " " FontSize="25"  Margin="15" VerticalAlignment="Center" Width="auto" MinWidth="200"></TextBlock>
+                    <Button Margin="15"  HorizontalAlignment="Left" Click="OpenHistoryPOP" Background="#FF924E95" BorderBrush="#FFE0D5D5" Foreground="#FFB9E4F5" >
+                        <Button.Content>
+                            <SymbolIcon Symbol="Bookmarks"></SymbolIcon>
+                        </Button.Content>
+                    </Button>
+
+                    <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"   Width="auto"  HorizontalAlignment="Left" Height="auto" FontSize="13"  Margin="10" Click="OpenUpdatePOP"  Tag="{Binding}">
+                            <Button.Content>
+                                <SymbolIcon Symbol="Edit"></SymbolIcon>
+                            </Button.Content>
+                        </Button>
+                    <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"   Width="auto"  HorizontalAlignment="Center" Height="auto" FontSize="13"  Margin="10"  Click="OpenDeletePOP"  Tag="{Binding}">
+                            <Button.Content>
+                                <SymbolIcon Symbol="Delete"></SymbolIcon>
+                            </Button.Content>
+                        </Button>
+                    </StackPanel>
+
+                    <StackPanel  VerticalAlignment="Center" Width="auto">
+                    <StackPanel HorizontalAlignment="Center">
+                    <StackPanel Orientation="Horizontal" Height="auto" VerticalAlignment="Stretch">
+                        <TextBox Header="מחיר" Text = "" x:Name="price"    PlaceholderText="מחיר" Margin="7" Width="120" Foreground="#FF924E95"></TextBox>
+                        <TextBox Header="תיאור" Text = ""  x:Name="discribtion"  PlaceholderText="תאור" Margin="7" Width="120" Foreground="#FF924E95"></TextBox>
+
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Height="auto" VerticalAlignment="Center">
+                        <TextBox Header="סטטוס" Text = "" x:Name="statusT"       PlaceholderText="סטטוס" Margin="7" Width="120" Foreground="#FF924E95"></TextBox>
+                            <ComboBox  IsEditable="True" Header="סטטוס"  x:Name="status"      PlaceholderText="סטטוס" Margin="7" Width="120" Foreground="#FF924E95">
+                                <ComboBoxItem Foreground="#FF924E95" FontSize="15" Content="בתכנון"></ComboBoxItem>
+                                <ComboBoxItem Foreground="#FF924E95" FontSize="15" Content="בהרשמה"></ComboBoxItem>
+                                <ComboBoxItem Foreground="#FF924E95" FontSize="15" Content="פעיל"></ComboBoxItem>
+                                <ComboBoxItem Foreground="#FF924E95" FontSize="15" Content="בוצע"></ComboBoxItem>
+                            </ComboBox>
+                            <TextBox Header="מספר שיעורים" Text = ""  x:Name="numOfLessons"   PlaceholderText="מספר שיעורים" Margin="7" Width="120" Foreground="#FF924E95"></TextBox>
+                        
+                    </StackPanel>
+                        <TextBox Header="סוג סדנה" Text = ""  x:Name="typeCourseT"   PlaceholderText="סוג סדנה" Margin="7" Width="120" Foreground="#FF924E95"></TextBox>
+
+                        <ComboBox x:Name="typeCourse" Header="סוג סדנה" PlaceholderText="סוג סדנה" FlowDirection="RightToLeft" Margin="7" Width="120"   HorizontalAlignment="Center">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate x:DataType="service1:Course">
+                                    <StackPanel Tag="{Binding typeCourse}">
+                                    <ComboBoxItem Content="{Binding typeCourse.nameTypeCourse}"  FontSize="15" Foreground="#FF924E95"></ComboBoxItem>
+                                    </StackPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Tag="in" Orientation="Horizontal">
+                    <Button x:Name="saveBtn" Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="שמור"  Width="100"   Height="35" FontSize="14"  Margin="0,50,0,7" HorizontalAlignment="Center" Click="UpdateC" Visibility="Visible"></Button>
+                    <TextBlock x:Name="txtMessage1" Text=" " HorizontalAlignment="Center" FontSize="20" Foreground="#FF924E95"  Margin="10"></TextBlock>
+
+                    <Button x:Name="toCMBtn" Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5" Content="שיעורים"  Width="100"   Height="35" FontSize="14"  Margin="0,50,0,7" HorizontalAlignment="Left" Click="CourseMeeting" ></Button>
+                </StackPanel>
+            </StackPanel>
+        </Popup>
+
+        <StackPanel VerticalAlignment="Bottom" >
+            <Image Source="/Assets/knitting_w300.png" Width="200" Height="200" />
+        </StackPanel>
+        <Popup x:Name="historyPop" Width="auto" MinWidth="1000" Height="auto" MinHeight="1000" HorizontalAlignment="Center" VerticalAlignment="Stretch">
+            <StackPanel  Background="White">
+            <StackPanel>
+                    <StackPanel Orientation="Horizontal" FlowDirection="RightToLeft">
+                        <Button HorizontalAlignment="Right" Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"   Width="auto"   Height="auto" FontSize="13"  Margin="5"  Click="closeDetailsPop">
+                        <Button.Content>
+                            <SymbolIcon Symbol="Clear"></SymbolIcon>
+                        </Button.Content>
+                           </Button>
+                          <TextBlock Text="הסטורית הרשמות" HorizontalAlignment="Center" FontSize="35" Foreground="#FF924E95" Margin="200,0,200,0" ></TextBlock>
+                    
+                    </StackPanel>
+          
+                    <StackPanel>
+                <ScrollViewer x:Name="scroller" Tag="{Binding}" >
+               <ListView Name="rFC" Width="auto" MaxHeight="450" MaxWidth="700" Height="auto" FlowDirection="RightToLeft" Background="White" Opacity="0.5" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="100" SelectionChanged="rFC_SelectionChanged">
+                        <ListView.ItemTemplate >
+                            <DataTemplate x:DataType="service1:RegistrationForCourse">
+                                <StackPanel Tag="{Binding}" Orientation="Horizontal">
+                                    <TextBlock Text="{Binding customer.name}" Margin="10"  Width="auto" MinWidth="80" Foreground = "#FF924E95"></TextBlock>
+                                    <TextBlock Text="{Binding course.codeTypeCourse.nameTypeCourse}" Margin="10" Width="auto" MinWidth="400" Foreground = "#FF924E95"></TextBlock>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                        <Button Margin="15"  HorizontalAlignment="Left" Background="Transparent" Foreground = "#FF924E95" Tag="{Binding}" Click="OpenUpdatePopM">
+                                            <Button.Content>
+                                                <SymbolIcon Symbol="Edit" ></SymbolIcon>
+                                            </Button.Content>
+                                        </Button>
+                                        <Button Margin="15"  HorizontalAlignment="Left"  Background="Transparent" Foreground = "#FF924E95" Tag="{Binding}" Click="OpendeletePopM">
+                                            <Button.Content>
+                                                <SymbolIcon Symbol="Delete"></SymbolIcon>
+                                            </Button.Content>
+                                        </Button>
+
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </ScrollViewer>
+            </StackPanel>
+        </StackPanel>
+
+            </StackPanel>
+        </Popup>
+        <Popup x:Name="deletePopM"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="400,200" Width="auto">
+
+            <StackPanel Background="#FFF2F3F7" VerticalAlignment="Center" Margin="200" Width="auto" Height="150" HorizontalAlignment="Center" BorderBrush="#FF924E95" >
+                <TextBlock Foreground = "#FF924E95" Text = "?האם למחוק את הרישום הנבחר" FontSize="25" Margin="15"></TextBlock>
+                <StackPanel Orientation="Horizontal" MinWidth="295" Width="auto">
+                    <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"  Content="מחק"  MinWidth="100" Width="auto" HorizontalAlignment="Center" Height="35" FontSize="14"  Margin="20" Click="deleteCM" ></Button>
+                    <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"  Content="ביטול"  MinWidth="100" Width="auto" HorizontalAlignment="Center" Height="35" FontSize="14"  Margin="20"  Click="closeDPopM"></Button>
+
+                </StackPanel>
+            </StackPanel>
+        </Popup>
+        <Popup x:Name="detailsPopM" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="400,200" Width="auto" >
+            <StackPanel>
+                <TextBlock x:Name="txtMessage1M" Text=" " HorizontalAlignment="Center" FontSize="20" Foreground="#FF924E95"  Margin="10"></TextBlock>
+
+
+
+                <StackPanel  Margin="50" Width="auto" Height="300"  Orientation="Vertical" FlowDirection="RightToLeft" Background="#FFF2F3F7">
+
+                    <StackPanel Orientation="Horizontal">
+                        <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"   Width="auto"  HorizontalAlignment="Center" Height="auto" FontSize="13"  Margin="5"  Click="closeDetailsPopM">
+                            <Button.Content>
+                                <SymbolIcon Symbol="Clear"></SymbolIcon>
+                            </Button.Content>
+                        </Button>
+                        <TextBlock x:Name="txtTitleM" Foreground = "#FF924E95" Text = " " FontSize="25" Margin="15" VerticalAlignment="Top" HorizontalAlignment="Center"></TextBlock>
+
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" MinWidth="300"  Width="auto">
+                        <StackPanel Height="168" VerticalAlignment="Center" Width="auto" MinWidth="100">
+                            <ComboBox x:Name="customer1" Header="שם" FlowDirection="RightToLeft" Margin="7" Width="auto"  Foreground="#FF924E95" MinWidth="40">
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate x:DataType="service1:Customers">
+                                        <ComboBoxItem Content="{Binding  name}"  Tag="{Binding}" Foreground="#FF924E95" FontSize="12"></ComboBoxItem>
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                            <ComboBox x:Name="course" Header="סדנה" FlowDirection="RightToLeft" Margin="7" Width="auto"  Foreground="#FF924E95" MinWidth="40">
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate x:DataType="service1:Course">
+                                        <ComboBoxItem Content="{Binding  codeTypeCourse.nameTypeCourse}"  Tag="{Binding}" Foreground="#FF924E95" FontSize="12"></ComboBoxItem>
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                            <!--<TextBox  Text = "" x:Name="firstName" Header="שם" Margin="7" Width="auto" Foreground="#FF924E95" MinWidth="25"></TextBox>-->
+                            <TextBox Text = "" x:Name="amountPay"  Header="סכום לתשלום" Margin="7" Width="auto" Foreground="#FF924E95" MinWidth="25"></TextBox>
+                        </StackPanel>
+                        <StackPanel Height="168" VerticalAlignment="Center" MinWidth="100"  Width="auto">
+
+                            <ComboBox x:Name="howTOPay" Header="אופן התשלום" FlowDirection="RightToLeft" Margin="7" Width="auto"  Foreground="#FF924E95" MinWidth="40">
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate x:DataType="service1:Customers">
+                                        <ComboBoxItem Content="{Binding  name}"  Tag="{Binding}" Foreground="#FF924E95" FontSize="12"></ComboBoxItem>
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                            <TextBox Text = ""  x:Name="note"   Header="הערות" Margin="7" Width="auto" Foreground="#FF924E95" MinWidth="25"></TextBox>
+
+                        </StackPanel>
+                    </StackPanel>
+
+
+                    <Button x:Name="btnUpDateM" Visibility="Collapsed" Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"   Width="auto"  HorizontalAlignment="Center" Height="auto" FontSize="13"  Margin="15" Content="שמור" Click="updateCM"/>
+
+                    <StackPanel Orientation="Horizontal" Height="80" Width="250" HorizontalAlignment="Center" Tag="in" >
+
+                        <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"  Width="100"   Height="35" FontSize="14"  Margin="7"  Click="OpendeletePopM">
+                            <Button.Content>
+                                <SymbolIcon Symbol="Delete"></SymbolIcon>
+                            </Button.Content>
+                        </Button>
+                        <Button  Foreground="#FFB9E4F5" Background="#FF924E95" BorderBrush="#FFE0D5D5"   Width="100" Height="35" FontSize="14"  Margin="7" Click="OpenUpdatePopM">
+                            <Button.Content>
+                                <SymbolIcon Symbol="Edit"></SymbolIcon>
+                            </Button.Content>
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </Popup>
+
+    </Grid>
+</Page>

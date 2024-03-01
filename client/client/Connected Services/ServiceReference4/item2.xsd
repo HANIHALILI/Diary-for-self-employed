@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Customers">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="adress" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="city" nillable="true" type="tns:Cities" />
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="mail" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="notes" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="telephone" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Customers" nillable="true" type="tns:Customers" />
+  <xs:complexType name="BaseEntity">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:element name="BaseEntity" nillable="true" type="tns:BaseEntity" />
+  <xs:complexType name="Cities">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="nameCity" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Cities" nillable="true" type="tns:Cities" />
+  <xs:complexType name="Sceduel">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="dateInMonth" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="timeInDay" type="xs:dateTime" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Sceduel" nillable="true" type="tns:Sceduel" />
+  <xs:complexType name="PersonalMeeting">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="amountPaid" type="xs:double" />
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="customer" nillable="true" type="tns:Customers" />
+          <xs:element minOccurs="0" name="dday" nillable="true" type="tns:Sceduel" />
+          <xs:element minOccurs="0" name="howToMeet" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="isPerformed" type="xs:boolean" />
+          <xs:element minOccurs="0" name="lengthSessionInminutes" type="xs:double" />
+          <xs:element minOccurs="0" name="paymentMethod" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="price" type="xs:double" />
+          <xs:element minOccurs="0" name="typeAdvice" nillable="true" type="tns:TypeAdvice" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="PersonalMeeting" nillable="true" type="tns:PersonalMeeting" />
+  <xs:complexType name="TypeAdvice">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="nameTypeAdvice" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TypeAdvice" nillable="true" type="tns:TypeAdvice" />
+  <xs:complexType name="Course">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="codeTypeCourse" nillable="true" type="tns:TypeCourse" />
+          <xs:element minOccurs="0" name="discribtion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="numberOfLessons" type="xs:int" />
+          <xs:element minOccurs="0" name="price" type="xs:double" />
+          <xs:element minOccurs="0" name="status" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Course" nillable="true" type="tns:Course" />
+  <xs:complexType name="TypeCourse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="nameTypeCourse" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TypeCourse" nillable="true" type="tns:TypeCourse" />
+  <xs:complexType name="RegistrationForCourse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="amountPaid" type="xs:int" />
+          <xs:element minOccurs="0" name="course" nillable="true" type="tns:Course" />
+          <xs:element minOccurs="0" name="customer" nillable="true" type="tns:Customers" />
+          <xs:element minOccurs="0" name="notes" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="paymentMethod" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="price" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="RegistrationForCourse" nillable="true" type="tns:RegistrationForCourse" />
+  <xs:complexType name="CourseMeeting">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="contentMeeting" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="course" nillable="true" type="tns:Course" />
+          <xs:element minOccurs="0" name="ddate" nillable="true" type="tns:Sceduel" />
+          <xs:element minOccurs="0" name="isPerformed" type="xs:boolean" />
+          <xs:element minOccurs="0" name="lengthSessionInminutes" type="xs:int" />
+          <xs:element minOccurs="0" name="notes" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="serial" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="CourseMeeting" nillable="true" type="tns:CourseMeeting" />
+  <xs:complexType name="ArrayOfPersonalMeeting">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PersonalMeeting" nillable="true" type="tns:PersonalMeeting" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPersonalMeeting" nillable="true" type="tns:ArrayOfPersonalMeeting" />
+  <xs:complexType name="ArrayOfSceduel">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Sceduel" nillable="true" type="tns:Sceduel" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfSceduel" nillable="true" type="tns:ArrayOfSceduel" />
+  <xs:complexType name="ArrayOfCourse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Course" nillable="true" type="tns:Course" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCourse" nillable="true" type="tns:ArrayOfCourse" />
+  <xs:complexType name="ArrayOfCustomers">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Customers" nillable="true" type="tns:Customers" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCustomers" nillable="true" type="tns:ArrayOfCustomers" />
+  <xs:complexType name="ArrayOfCities">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Cities" nillable="true" type="tns:Cities" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCities" nillable="true" type="tns:ArrayOfCities" />
+  <xs:complexType name="ArrayOfRegistrationForCourse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="RegistrationForCourse" nillable="true" type="tns:RegistrationForCourse" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRegistrationForCourse" nillable="true" type="tns:ArrayOfRegistrationForCourse" />
+  <xs:complexType name="ArrayOfCourseMeeting">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CourseMeeting" nillable="true" type="tns:CourseMeeting" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCourseMeeting" nillable="true" type="tns:ArrayOfCourseMeeting" />
+  <xs:complexType name="ArrayOfTypeAdvice">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TypeAdvice" nillable="true" type="tns:TypeAdvice" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTypeAdvice" nillable="true" type="tns:ArrayOfTypeAdvice" />
+  <xs:complexType name="ArrayOfTypeCourse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TypeCourse" nillable="true" type="tns:TypeCourse" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTypeCourse" nillable="true" type="tns:ArrayOfTypeCourse" />
+</xs:schema>

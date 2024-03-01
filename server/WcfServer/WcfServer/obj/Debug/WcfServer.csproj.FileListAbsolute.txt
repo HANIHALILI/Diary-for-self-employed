@@ -1,0 +1,113 @@
+C:\Users\tichnut\Desktop\תרגיללל\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\תרגיללל\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+H:\כתה יב תשפב תכנות\חני חלילי\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.csprojAssemblyReference.cache
+H:\כתה יב תשפב תכנות\חני חלילי\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+H:\כתה יב תשפב תכנות\חני חלילי\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+H:\כתה יב תשפב תכנות\חני חלילי\ח נ י פרויקט\תרגיללל\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\tichnut\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.AssemblyReference.cache
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\יאיר\Desktop\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.AssemblyReference.cache
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\יאיר\Desktop\‏‏תיקיה חדשה\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.AssemblyReference.cache
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\יאיר\Documents\ח נ י פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\obj\Debug\WcfServer.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\חני שני כב סיון\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\tichnut\Desktop\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.AssemblyReference.cache
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\יאיר\Documents\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.AssemblyReference.cache
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+E:\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.dll
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\WcfServer.pdb
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.dll
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.dll
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\Model.pdb
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\bin\Debug\ViewModel.pdb
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.AssemblyReference.cache
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CoreCompileInputs.cache
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.csproj.CopyComplete
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.dll
+C:\Users\Hani\Desktop\מחשב ישן\אונקי\הדסה 2\חני פרויקט\server\WcfServer\WcfServer\obj\Debug\WcfServer.pdb
